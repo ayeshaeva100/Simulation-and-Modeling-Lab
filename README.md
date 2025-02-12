@@ -15,17 +15,12 @@ Matrix Operations
 Matrix Arethmetic Operations
 Matrix Visualization
 
-## Technologies Used
 
-  Python
-  NumPy
-  Matplotlib
-  SymPy
 
 ##Discussion
 
-The plotted vectors showed very trends and distrebutions
-The heatmap representation the effective highlight value distrebution of the matrix
+The plotted vectors showed very trends and distrebutions.
+The heatmap representation the effective highlight value distrebution of the matrix.
 The arithmetic operation provided into the numerical relationship and bar plots in this analysis
 
 
