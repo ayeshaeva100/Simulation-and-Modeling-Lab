@@ -8,6 +8,7 @@ Information:
 **Course Code**: CSE 413 
 **Course Teacher**: Audity Ghosh
 
+---
 
 ## Concepts Covered
 
