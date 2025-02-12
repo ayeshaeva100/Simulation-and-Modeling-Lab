@@ -1,12 +1,12 @@
-Information:
+## Information:
 
-**Name**: [Ayesha Akter Eva] 
-**ID**: [2215151159] 
-**Section**: [7A1]
-**University**: [University of Information technology and Science]  
-**Course name**: [Simulation And Modeling Lab]
-**Course Code**: [CSE 413] 
-**Course Teacher**: [Audity Ghosh]
+**Name**: Ayesha Akter Eva
+**ID**: 2215151159
+**Section**: 7A1
+**University**: University of Information technology and Science
+**Course name**: Simulation And Modeling Lab
+**Course Code**: CSE 413
+**Course Teacher**: Audity Ghosh
 
 ---
 
