@@ -22,6 +22,9 @@
 
 - **Matrix Visualizations**
 
+- ### Assingment 1
+- **Generate two vectors with 15 random floats each,plot them on the same graph ,lebel the axes and add title.
+
 
 ## Technologies Used
 
