@@ -28,10 +28,12 @@
 - **Create a 4x4 matrix with random values, visualize it as a heatmap, and label the rows and columns.**
 - **Generate two 4x4 matrices, perform addition, subtraction, and multiplication, visualize the results using bar plots, and discuss the effects.**
 
- ##Assignment 2
 
-- **Use numpy to create a 3×3 matrix of random integers between 1 and 50.  **
-  - ** Run the code twice**
+
+ ## Assignment 2
+
+ - **Use numpy to create a 3×3 matrix of random integers between 1 and 50.  **
+ - ** Run the code twice**
 -** With a fixed seed (`np.random.seed(10)`) to ensure reproducibility.**
 - ** Without setting a seed, allowing random values to change each time.**
 
