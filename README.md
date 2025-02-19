@@ -41,6 +41,7 @@ Use numpy to create a 3×3 matrix of random integers between 1 and 50.
 - **With a fixed seed (`np.random.seed(10)`) to ensure reproducibility.**
 
 - **Without setting a seed, allowing random values to change each time.**
+- **Observe and explain the differences in outputs.**
 
 
 ## Technologies Used
